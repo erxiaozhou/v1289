@@ -1,7 +1,7 @@
 [submodule "runtime_tester"]
     path = runtime_tester
     url = https://github.com/erxiaozhou/cp910_runtime_tester
-    branch = main
+    # branch = main
     commit = 504fcf13a1140b2573988357f44091ace1165296
 
 
