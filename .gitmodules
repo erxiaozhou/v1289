@@ -11,6 +11,13 @@
 #     branch = main
 #     commit = 683e40265dc1665a6967b193afe167397a1004ee
 
-[submodule "document/core/util/katex"]
-	path = document/core/util/katex
-	url = https://github.com/KaTeX/KaTeX.git
+# [submodule "document/core/util/katex"]
+# 	path = document/core/util/katex
+# 	url = https://github.com/KaTeX/KaTeX.git
+[submodule "runtime_tester"]
+	path = runtime_tester
+	url = https://github.com/erxiaozhou/cp910_runtime_tester
+    commit = 504fcf13a1140b2573988357f44091ace1165296
+[submodule "spec"]
+	path = spec
+	url = https://github.com/WebAssembly/spec
