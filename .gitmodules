@@ -5,8 +5,8 @@
     commit = 504fcf13a1140b2573988357f44091ace1165296
 
 
-[submodule "spec"]
-    path = spec
-    url = https://github.com/WebAssembly/spec
-    branch = main
-    commit = 683e40265dc1665a6967b193afe167397a1004ee
+# [submodule "spec"]
+#     path = spec
+#     url = https://github.com/WebAssembly/spec
+#     branch = main
+#     commit = 683e40265dc1665a6967b193afe167397a1004ee
