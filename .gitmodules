@@ -21,3 +21,4 @@
 [submodule "spec"]
 	path = spec
 	url = https://github.com/WebAssembly/spec
+	commit = 683e40265dc1665a6967b193afe167397a1004ee
