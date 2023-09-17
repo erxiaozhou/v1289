@@ -1,4 +1,4 @@
-[submodule "runtime tester"]
+[submodule "runtime_tester"]
     path = runtime_tester
     url = https://github.com/erxiaozhou/cp910_runtime_tester
     branch = main
